@@ -49,7 +49,7 @@
         <ribbonColor>black</ribbonColor>
       </gitHub>
       <googleSearch>
-        <sitesearch/>
+        <sitesearch>jszip.org</sitesearch>
       </googleSearch>
     </fluidoSkin>
   </custom>
