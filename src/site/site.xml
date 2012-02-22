@@ -25,6 +25,11 @@
   <publishDate format="yyyy-MM-dd" position="right" />
   <version position="right" />
 
+  <poweredBy combine-children="append">
+    <logo name="Built by Maven" href="http://maven.apache.org/" img="images/logos/maven-feather.png" />
+    <logo name="Built on CloudBees" href="https://jszip.ci.cloudbees.com/" img="http://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png" />
+  </poweredBy>
+
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-fluido-skin</artifactId>
