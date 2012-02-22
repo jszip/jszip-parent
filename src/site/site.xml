@@ -25,9 +25,9 @@
   <publishDate format="yyyy-MM-dd" position="right" />
   <version position="right" />
 
-  <poweredBy combine-children="append">
+  <poweredBy>
     <logo name="Built by Maven" href="http://maven.apache.org/" img="images/logos/maven-feather.png" />
-    <logo name="Built on CloudBees" href="https://jszip.ci.cloudbees.com/" img="http://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png" />
+    <logo name="Built on CloudBees" href="https://jszip.ci.cloudbees.com/" img="http://jszip.org/images/built-on-cloudbees.png" />
   </poweredBy>
 
   <skin>
