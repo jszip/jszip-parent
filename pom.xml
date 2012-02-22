@@ -39,9 +39,6 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-  <prerequisites>
-    <maven>2.2.1</maven>
-  </prerequisites>
 
   <developers>
     <developer>
@@ -53,6 +50,10 @@
     </developer>
   </developers>
 
+  <prerequisites>
+    <maven>2.2.1</maven>
+  </prerequisites>
+
   <scm>
     <connection>scm:git:git://github.com/jszip/jszip-parent.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/jszip-parent.git</developerConnection>
@@ -62,6 +63,10 @@
     <system>github</system>
     <url>http://github.com/jszip/jszip-parent/issues</url>
   </issueManagement>
+  <ciManagement>
+    <system>jenkins</system>
+    <url>https://jszip.ci.cloudbees.com</url>
+  </ciManagement>
   <distributionManagement>
     <site>
       <id>github.com</id>
