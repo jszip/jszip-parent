@@ -50,6 +50,23 @@
     </developer>
   </developers>
 
+  <mailingLists>
+    <mailingList>
+      <name>JSZip Users List</name>
+      <post>jszip-users@googlegroups.com</post>
+      <subscribe>jszip-users+subscribe@googlegroups.com</subscribe>
+      <unsubscribe>jszip-users+unsubscribe@googlegroups.com</unsubscribe>
+      <archive>https://groups.google.com/forum/#!forum/jszip-users</archive>
+    </mailingList>
+    <mailingList>
+      <name>JSZip Developers List</name>
+      <post>jszip-dev@googlegroups.com</post>
+      <subscribe>jszip-dev+subscribe@googlegroups.com</subscribe>
+      <unsubscribe>jszip-dev+unsubscribe@googlegroups.com</unsubscribe>
+      <archive>https://groups.google.com/forum/#!forum/jszip-dev</archive>
+    </mailingList>
+  </mailingLists>
+
   <prerequisites>
     <maven>2.2.1</maven>
   </prerequisites>
