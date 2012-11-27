@@ -33,7 +33,7 @@
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-fluido-skin</artifactId>
-    <version>1.1</version>
+    <version>1.3.0</version>
   </skin>
 
   <body>
@@ -50,14 +50,14 @@
 
   <custom>
     <fluidoSkin>
+      <topBarEnabled>true</topBarEnabled>
+      <sideBarEnabled>false</sideBarEnabled>
+      <sourceLineNumbersEnabled>true</sourceLineNumbersEnabled>
       <gitHub>
         <projectId>jszip/jszip-parent</projectId>
         <ribbonOrientation>right</ribbonOrientation>
-        <ribbonColor>black</ribbonColor>
+        <ribbonColor>orange</ribbonColor>
       </gitHub>
-      <googleSearch>
-        <sitesearch>jszip.org</sitesearch>
-      </googleSearch>
     </fluidoSkin>
   </custom>
 </project>
